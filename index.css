@@ -1,3 +1,7 @@
+img {
+    width: 1080px;
+    height: 1080px;
+}
 body {
     color: white;
     background-color: black;
@@ -15,8 +19,4 @@ ul {
 a {
     color: white;
     text-decoration: none;
-}
-img {
-    width: 1080px;
-    height: 1080px;
 }
